@@ -58,21 +58,15 @@ Example:
 
 ## Demo
 
-### Preview
+### Preview (10 sec)
 
-Watch the 10-second demo of the Weather Agent (video included in the repo):
-
-<video width="480" controls>
-  <source src="weather_agent_preview.mp4" type="video/mp4">
+<video width="480" autoplay loop muted playsinline>
+  <source src="https://res.cloudinary.com/dt686xyud/video/upload/v1759859347/weather_agent_cropped-ezgif.com-video-speed_vjvdrd.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
-
-### Full Video
-
-Watch the full 1-minute demo hosted on Cloudinary:
 
 [▶ Watch Full 1-Minute Demo](https://res.cloudinary.com/dt686xyud/video/upload/v1759857219/weather_agent_pr2qio.webm)
 
-> 💡 Note: The inline preview is a small 10-second clip. Click the link above to view the complete demo.
 
 ---
 
