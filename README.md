@@ -1,4 +1,4 @@
-# 🤖 Weather Agent - AI-powered Autonomous Weather Assistant
+# 🤖 Weather Agent – AI-powered Autonomous Weather Assistant
 
 **Live AI Agent using Google Gemini API**  
 An autonomous AI agent that reasons, plans, and executes actions to fetch real-time weather data for any city using a structured workflow: `START → PLAN → TOOL → OBSERVE → OUTPUT`.
@@ -58,13 +58,21 @@ Example:
 
 ## Demo
 
-Watch the live demo of Weather Agent below:
+### Preview
 
-<video width="640" height="360" controls>
-  <source src="https://res.cloudinary.com/dt686xyud/video/upload/v1759857219/weather_agent_pr2qio.webm" type="video/webm">
-  Your browser does not support the video tag.  
-  <a href="https://res.cloudinary.com/dt686xyud/video/upload/v1759857219/weather_agent_pr2qio.webm">Click here to watch the demo</a>
+Watch the 10-second demo of the Weather Agent (video included in the repo):
+
+<video width="480" controls>
+  <source src="weather_agent_preview.mp4" type="video/mp4">
 </video>
+
+### Full Video
+
+Watch the full 1-minute demo hosted on Cloudinary:
+
+[▶ Watch Full 1-Minute Demo](https://res.cloudinary.com/dt686xyud/video/upload/v1759857219/weather_agent_pr2qio.webm)
+
+> 💡 Note: The inline preview is a small 10-second clip. Click the link above to view the complete demo.
 
 ---
 
