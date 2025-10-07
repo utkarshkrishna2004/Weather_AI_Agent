@@ -60,14 +60,12 @@ Example:
 
 ### Preview (10 sec)
 
-[![Watch Preview](https://res.cloudinary.com/dt686xyud/video/upload/v1759859347/weather_agent_cropped-ezgif.com-video-speed_vjvdrd.gif)](https://res.cloudinary.com/dt686xyud/video/upload/v1759857219/weather_agent_pr2qio.webm)
-
-> 💡 Click the preview above to watch the full 1-minute demo on Cloudinary.
+https://github.com/user-attachments/assets/e51b685a-db4a-45f7-9e7a-5804d9d08c09
 
 ### Full Video
 
 Or directly watch the full 1-minute demo hosted on Cloudinary:
 
-[▶ Watch Full 1-Minute Demo](https://res.cloudinary.com/dt686xyud/video/upload/v1759857219/weather_agent_pr2qio.webm)
+[![▶ Watch Full 1-Minute Demo](https://img.shields.io/badge/▶_Watch_Full_1--Minute_Demo-blue?style=for-the-badge&logoColor=blue)](https://res.cloudinary.com/dt686xyud/video/upload/v1759857219/weather_agent_pr2qio.webm)
 
 ---
