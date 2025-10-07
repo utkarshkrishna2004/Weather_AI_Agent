@@ -60,13 +60,14 @@ Example:
 
 ### Preview (10 sec)
 
-<video width="480" autoplay loop muted playsinline>
-  <source src="https://res.cloudinary.com/dt686xyud/video/upload/v1759859347/weather_agent_cropped-ezgif.com-video-speed_vjvdrd.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch Preview](https://res.cloudinary.com/dt686xyud/video/upload/v1759859347/weather_agent_cropped-ezgif.com-video-speed_vjvdrd.gif)](https://res.cloudinary.com/dt686xyud/video/upload/v1759857219/weather_agent_pr2qio.webm)
+
+> 💡 Click the preview above to watch the full 1-minute demo on Cloudinary.
+
+### Full Video
+
+Or directly watch the full 1-minute demo hosted on Cloudinary:
 
 [▶ Watch Full 1-Minute Demo](https://res.cloudinary.com/dt686xyud/video/upload/v1759857219/weather_agent_pr2qio.webm)
 
-
 ---
-
